@@ -27,6 +27,6 @@ Desenvolva um programa que dado um número inteiro positivo, retorne os seus fat
 Fonte: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
 
 Documentação sobre a tecnologias usada: 
-*  [HTML](https://www.w3schools.com/html/default.asp)
-*  [CSS](https://www.w3schools.com/css/default.asp)
+*  [HTML5](https://www.w3schools.com/html/default.asp)
+*  [CSS3](https://www.w3schools.com/css/default.asp)
 * [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
