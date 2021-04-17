@@ -1,6 +1,6 @@
 Clonando o projeto na sua máquina:
 ```shel 
-    git clone https://git
+    git clone https://github.com/gibifyofficial/TESTE_ASSEINFO.git
 ```
 
 
