@@ -20,7 +20,7 @@ Outros exemplos:
 * 276 = 2 x 2 x 3 x 23
 
 ### Desafio
-Desenvolva um programa que dado um número inteiro positivo, retorne os seus fatores primos, e se este número é primo ou não.
+Desenvolva um programa que dado um número inteiro positivo, retorne os seus fatores primos, e se o número é primo ou não.
 
  
 
