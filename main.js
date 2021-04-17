@@ -9,7 +9,7 @@
     document.querySelector('#showFactories').innerHTML = factories;
  }
  
-// Function para verificar se o valor é Primo
+// Function para verificar se o value é Primo
 function isPrimer(number) {
     for (let i = 2; i <= Math.sqrt(number); i++) {
         if(number % i === 0) {
