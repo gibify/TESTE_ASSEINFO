@@ -19,14 +19,15 @@ Outros exemplos:
 * 198 = 2 x 3 x 3 x 11
 * 276 = 2 x 2 x 3 x 23
 
-
+### Desafio
 Desenvolva um programa que dado um número inteiro positivo, retorne os seus fatores primos
 
  
 
-Fonte: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
+### Fonte 
+* http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
 
-Documentação sobre a tecnologias usada: 
+### Documentação sobre as tecnologias usada: 
 *  [HTML5](https://www.w3schools.com/html/default.asp)
 *  [CSS3](https://www.w3schools.com/css/default.asp)
 * [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
